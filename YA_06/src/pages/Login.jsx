@@ -5,7 +5,7 @@ function Login() {
     return(
         <div>
             <Header/>
-            <h1>Login페이지</h1>
+            <h1>Login</h1>
         </div>
     )
 }
